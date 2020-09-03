@@ -1,0 +1,29 @@
+body{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  border-bottom:2px solid #0062cc;
+}
+.box{
+    padding:10px 10px 0px 0px;
+}
+h2{
+    padding: 0em 0.5em;
+}
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:20px 10px;
+    margin:20px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+.fa{
+     color:#4183D7;
+}
